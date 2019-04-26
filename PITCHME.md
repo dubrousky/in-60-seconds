@@ -8,7 +8,9 @@
 
 ---
 @title[PlantUML]
+
 ![cached image](![cached image](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/dubrousky/in-60-seconds/master/doc/assets/testuml.puml)
+
 ---
 @title[Customize Slide Layout]
 
